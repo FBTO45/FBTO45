@@ -1,7 +1,7 @@
 ## <h1 align="center">Profile Summary Stats</h1>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/FBTO45/FBTO45/master/profile-summary-card-output/solarized/0-profile-details.svg" alt="Profile Details" />
+<img src="https://raw.githubusercontent.com/FBTO45/Profile-fbto45/master/profile-summary-card-output/solarized/0-profile-details.svg" alt="Profile Details" />
 
 <!--[![](https://raw.githubusercontent.com/FBTO45/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/FBTO45/github-profile-summary-cards)  
 [![](https://raw.githubusercontent.com/FBTO45/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/FBTO45/github-profile-summary-cards) 
