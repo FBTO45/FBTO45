@@ -19,7 +19,7 @@
 
 <!-- View Count -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FBTO45-Profile&label=Profile%20views&color=0e75b6&style=flat" alt="FBTO45" />
+  <img src="https://komarev.com/ghpvc/?username=FBTO45&label=Profile%20views&color=0e75b6&style=flat" alt="FBTO45-Profile" />
 </p>
 
 ---
