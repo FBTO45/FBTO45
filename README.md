@@ -1,3 +1,18 @@
+## Profile Summary Stats
+
+---
+  
+[![](https://raw.githubusercontent.com/FBTO45/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/FBTO45/github-profile-summary-cards)
+
+---
+
+[![](https://raw.githubusercontent.com/FBTO45/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/FBTO45/github-profile-summary-cards) 
+[![](https://raw.githubusercontent.com/FBTO45/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/FBTO45/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/FBTO45/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/FBTO45/github-profile-summary-cards) 
+[![](https://raw.githubusercontent.com/FBTO45/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/FBTO45/github-profile-summary-cards)
+
+---
+
 <!-- Header -->
 <h1 align="center">Hi there 👋, I'm <span style="color:#0abde3">1</span></h1>
 <h3 align="center">A passionate Web Developer & Tech Explorer from Indonesia 🇮🇩</h3>
