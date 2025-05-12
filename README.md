@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/96a47156-17cf-4b26-a8c6-1074f88c666c" alt="GitHub Profile Banner" />
+  <img src="https://github.com/user-attachments/assets/50aee9ff-0deb-47c9-a0ce-db78dc3192ec" alt="GitHub Profile Banner" />
 </p>
 
 ## <h1 align="center">Profile Summary Stats</h1>
