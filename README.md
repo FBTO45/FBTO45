@@ -1,4 +1,5 @@
 ## <h1 align="center">Profile Summary Stats</h1>
+![Biru Minimalis Bisnis Konsultasi Email Header](https://github.com/user-attachments/assets/96a47156-17cf-4b26-a8c6-1074f88c666c)
 
 <div align="center">
 <img src="https://raw.githubusercontent.com//FBTO45/FBTO45-Profile/master/profile-summary-card-output/solarized/0-profile-details.svg" alt="Profile Details" />
