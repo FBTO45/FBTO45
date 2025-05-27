@@ -2,10 +2,6 @@
   <img src="https://github.com/user-attachments/assets/50aee9ff-0deb-47c9-a0ce-db78dc3192ec" alt="GitHub Profile Banner" />
 </p>
 
-## <h1 align="center">Profile Summary Stats</h1>
-<div align="center">
-<img src="https://raw.githubusercontent.com//FBTO45/FBTO45-Profile/master/profile-summary-card-output/solarized/0-profile-details.svg" alt="Profile Details" />
-
 <!--[![](https://raw.githubusercontent.com/FBTO45/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/FBTO45/github-profile-summary-cards)  
 [![](https://raw.githubusercontent.com/FBTO45/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/FBTO45/github-profile-summary-cards) 
 [![](https://raw.githubusercontent.com/FBTO45/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/FBTO45/github-profile-summary-cards)  
